@@ -1,4 +1,4 @@
 mpd-final
 =========
 
-Generic SQL access framework framework.
+Generic SQL access framework.
